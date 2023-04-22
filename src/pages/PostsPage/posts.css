@@ -1,0 +1,12 @@
+button{
+    font-size: large;
+    margin: 13px;
+    color: rgb(10, 10, 10);
+    background-color: darkgray;
+}
+.post-li{
+    list-style: decimal;
+}
+.post{
+    color: rgb(37, 37, 37);
+}
